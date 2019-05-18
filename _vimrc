@@ -23,6 +23,8 @@ call plug#end()
 autocmd BufEnter * :ShowWhiteToggle
 
 map <C-b> :NERDTreeToggle<CR>
+nnoremap <C-h> :bp<CR>
+nnoremap <C-l> :bn<CR>
 
 let g:airline#extensions#tabline#enabled=1
 
