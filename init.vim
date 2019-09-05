@@ -1,1 +1,0 @@
-/home/shui/.config/nvim/init.vim
